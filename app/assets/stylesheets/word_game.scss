@@ -1,0 +1,40 @@
+// Place all the styles related to the wordGame controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.letter-list {
+  letter-spacing: 20px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #89DBF6;
+}
+.user-guess {
+  margin-top: 30px;
+}
+#score-btn {
+  margin-top: 30px;
+}
+#user-guess-box {
+  width: 300px;
+  height: 60px;
+  border-radius: 10px;
+  border-width: 1px;
+}
+#btn-go {
+  margin-bottom: 50px;
+}
+h2 {
+  font-size: 22px;
+  color: rgb(150,150,160);
+}
+.results {
+  margin-top: 200px;
+}
+.your-score {
+  color: #89DBF6;
+  font-weight: bold;
+}
+.your-time {
+  font-size: 15px;
+  font-style: italic;
+}
+
